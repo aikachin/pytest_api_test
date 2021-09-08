@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Test Report</title>
+    <link href="assets/style.css" rel="stylesheet" type="text/css"/></head>
+  <body onLoad="init()">
+    <script>/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this file,
+ * You can obtain one at http://mozilla.org/MPL/2.0/. */
+
+
+function toArray(iter) {
+    if (iter === null) {
+        return null;
+    }
+    return Array.prototype.slice.call(iter);
+}
+
+function find(selector, elem) { // eslint-disable-line no-redeclare
+    if (!elem) {
+        elem = document;
+    }
+    return elem.querySelector(selector);
+}
+
+function findAll(selector, elem) {
+    if (!elem) {
+        elem = document;
+    }
+    return toArray(elem.querySelectorAll(selector));
+}
+
+function sortColumn(elem) {
+    toggleSortStates(elem);
+    const colIndex = toArray(elem.parentNode.childNodes).indexOf(elem);
+    let key;
+    if (elem.classList.contains('result')) {
+        key = keyResult;
+    } else if (elem.classList.contains('links')) {
+        key = keyLink;
+    } else {
+        key = keyAlpha;
+    }
+    sortTable(elem, key(colIndex));
+}
+
+function showAllExtras() { // eslint-disable-line no-unused-vars
+    findAll('.col-result').forEach(showExtras);
+}
+
+function hideAllExtras() { // eslint-disable-line no-unused-vars
+    findAll('.col-result').forEach(hideExtras);
+}
+
+function showExtras(colresultElem) {
+    const extras = colresultElem.parentNode.nextElementSibling;
+    const expandcollapse = colresultElem.firstElementChild;
+    extras.classList.remove('collapsed');
+    expandcollapse.classList.remove('expander');
+    expandcollapse.classList.add('collapser');
+}
+
+function hideExtras(colresultElem) {
+    const extras = colresultElem.parentNode.nextElementSibling;
+    const expandcollapse = colresultElem.firstElementChild;
+    extras.classList.add('collapsed');
+    expandcollapse.classList.remove('collapser');
+    expandcollapse.classList.add('expander');
+}
+
+function showFilters() {
+    const filterItems = document.getElementsByClassName('filter');
+    for (let i = 0; i < filterItems.length; i++)
+        filterItems[i].hidden = false;
+}
+
+function addCollapse() {
+    // Add links for show/hide all
+    const resulttable = find('table#results-table');
+    const showhideall = document.createElement('p');
+    showhideall.innerHTML = '<a href="javascript:showAllExtras()">Show all details</a> / ' +
+                            '<a href="javascript:hideAllExtras()">Hide all details</a>';
+    resulttable.parentElement.insertBefore(showhideall, resulttable);
+
+    // Add show/hide link to each result
+    findAll('.col-result').forEach(function(elem) {
+        const collapsed = getQueryParameter('collapsed') || 'Passed';
+        const extras = elem.parentNode.nextElementSibling;
+        const expandcollapse = document.createElement('span');
+        if (extras.classList.contains('collapsed')) {
+            expandcollapse.classList.add('expander');
+        } else if (collapsed.includes(elem.innerHTML)) {
+            extras.classList.add('collapsed');
+            expandcollapse.classList.add('expander');
+        } else {
+            expandcollapse.classList.add('collapser');
+        }
+        elem.appendChild(expandcollapse);
+
+        elem.addEventListener('click', function(event) {
+            if (event.currentTarget.parentNode.nextElementSibling.classList.contains('collapsed')) {
+                showExtras(event.currentTarget);
+            } else {
+                hideExtras(event.currentTarget);
+            }
+        });
+    });
+}
+
+function getQueryParameter(name) {
+    const match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+}
+
+function init () { // eslint-disable-line no-unused-vars
+    resetSortHeaders();
+
+    addCollapse();
+
+    showFilters();
+
+    sortColumn(find('.initial-sort'));
+
+    findAll('.sortable').forEach(function(elem) {
+        elem.addEventListener('click',
+            function() {
+                sortColumn(elem);
+            }, false);
+    });
+}
+
+function sortTable(clicked, keyFunc) {
+    const rows = findAll('.results-table-row');
+    const reversed = !clicked.classList.contains('asc');
+    const sortedRows = sort(rows, keyFunc, reversed);
+    /* Whole table is removed here because browsers acts much slower
+     * when appending existing elements.
+     */
+    const thead = document.getElementById('results-table-head');
+    document.getElementById('results-table').remove();
+    const parent = document.createElement('table');
+    parent.id = 'results-table';
+    parent.appendChild(thead);
+    sortedRows.forEach(function(elem) {
+        parent.appendChild(elem);
+    });
+    document.getElementsByTagName('BODY')[0].appendChild(parent);
+}
+
+function sort(items, keyFunc, reversed) {
+    const sortArray = items.map(function(item, i) {
+        return [keyFunc(item), i];
+    });
+
+    sortArray.sort(function(a, b) {
+        const keyA = a[0];
+        const keyB = b[0];
+
+        if (keyA == keyB) return 0;
+
+        if (reversed) {
+            return keyA < keyB ? 1 : -1;
+        } else {
+            return keyA > keyB ? 1 : -1;
+        }
+    });
+
+    return sortArray.map(function(item) {
+        const index = item[1];
+        return items[index];
+    });
+}
+
+function keyAlpha(colIndex) {
+    return function(elem) {
+        return elem.childNodes[1].childNodes[colIndex].firstChild.data.toLowerCase();
+    };
+}
+
+function keyLink(colIndex) {
+    return function(elem) {
+        const dataCell = elem.childNodes[1].childNodes[colIndex].firstChild;
+        return dataCell == null ? '' : dataCell.innerText.toLowerCase();
+    };
+}
+
+function keyResult(colIndex) {
+    return function(elem) {
+        const strings = ['Error', 'Failed', 'Rerun', 'XFailed', 'XPassed',
+            'Skipped', 'Passed'];
+        return strings.indexOf(elem.childNodes[1].childNodes[colIndex].firstChild.data);
+    };
+}
+
+function resetSortHeaders() {
+    findAll('.sort-icon').forEach(function(elem) {
+        elem.parentNode.removeChild(elem);
+    });
+    findAll('.sortable').forEach(function(elem) {
+        const icon = document.createElement('div');
+        icon.className = 'sort-icon';
+        icon.textContent = 'vvv';
+        elem.insertBefore(icon, elem.firstChild);
+        elem.classList.remove('desc', 'active');
+        elem.classList.add('asc', 'inactive');
+    });
+}
+
+function toggleSortStates(elem) {
+    //if active, toggle between asc and desc
+    if (elem.classList.contains('active')) {
+        elem.classList.toggle('asc');
+        elem.classList.toggle('desc');
+    }
+
+    //if inactive, reset all other functions and add ascending active
+    if (elem.classList.contains('inactive')) {
+        resetSortHeaders();
+        elem.classList.remove('inactive');
+        elem.classList.add('active');
+    }
+}
+
+function isAllRowsHidden(value) {
+    return value.hidden == false;
+}
+
+function filterTable(elem) { // eslint-disable-line no-unused-vars
+    const outcomeAtt = 'data-test-result';
+    const outcome = elem.getAttribute(outcomeAtt);
+    const classOutcome = outcome + ' results-table-row';
+    const outcomeRows = document.getElementsByClassName(classOutcome);
+
+    for(let i = 0; i < outcomeRows.length; i++){
+        outcomeRows[i].hidden = !elem.checked;
+    }
+
+    const rows = findAll('.results-table-row').filter(isAllRowsHidden);
+    const allRowsHidden = rows.length == 0 ? true : false;
+    const notFoundMessage = document.getElementById('not-found-message');
+    notFoundMessage.hidden = !allRowsHidden;
+}
+</script>
+    <h1>engipower_api_test_2021-07-30_12-57-15.html</h1>
+    <p>Report generated on 30-Jul-2021 at 12:57:16 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <h2>Environment</h2>
+    <table id="environment">
+      <tr>
+        <td>Packages</td>
+        <td>{"pluggy": "0.13.1", "py": "1.10.0", "pytest": "6.2.2"}</td></tr>
+      <tr>
+        <td>Platform</td>
+        <td>Windows-10-10.0.19041-SP0</td></tr>
+      <tr>
+        <td>Plugins</td>
+        <td>{"Faker": "5.8.0", "allure-pytest": "2.8.32", "html": "3.1.1", "metadata": "1.11.0"}</td></tr>
+      <tr>
+        <td>Python</td>
+        <td>3.7.3</td></tr></table>
+    <h2>Summary</h2>
+    <p>1 tests ran in 1.02 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">0 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <h2>Results</h2>
+    <table id="results-table">
+      <thead id="results-table-head">
+        <tr>
+          <th class="sortable result initial-sort" col="result">Result</th>
+          <th class="sortable" col="name">Test</th>
+          <th class="sortable" col="duration">Duration</th>
+          <th class="sortable links" col="links">Links</th></tr>
+        <tr hidden="true" id="not-found-message">
+          <th colspan="4">No results found. Try to check the filters</th></tr></thead>
+      <tbody class="failed results-table-row">
+        <tr>
+          <td class="col-result">Failed</td>
+          <td class="col-name">test_module/test_mid_measuredpoint.py::test_mid_measuredpoint[test_data0]</td>
+          <td class="col-duration">0.84</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log">test_data = {&#x27;case_name&#x27;: &#x27;小井（表记）实时&#x27;, &#x27;code&#x27;: 1, &#x27;expected&#x27;: &#x27;{\n    &quot;mode&quot;: &quot;realtime&quot;,\n    &quot;type&quot;: &quot;measuredpoint&quot;\n}&#x27;, &#x27;headers&#x27;: &#x27;{&quot;Content-Type&quot;: &quot;application/json&quot;, &quot;Authorization&quot;: &quot;#TOKEN&quot;}&#x27;, ...}<br/>login = &#x27;eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6ImNmZjZhNDRjLTIxYjItNDVlNy04NDhhLTRlZmYwZDE4YjRiMCJ9.8AK1hbgdqm1r5-jwMmfFKgBxCBnoyNgYHFfIPfihNFRcRNkdl95Taft3GJLk3zB2PKfdvnHpS2Lz-SZ0sd3Dqg&#x27;<br/><br/>    @pytest.mark.mid_measurepoint<br/>    @pytest.mark.parametrize(&quot;test_data&quot;, data)<br/>    def test_mid_measuredpoint(test_data, login):<br/>        &quot;&quot;&quot;<br/>        小井监测-接口<br/>        :param test_data: 测试用例数据<br/>        :param login: 夹具<br/>        :return:<br/>        &quot;&quot;&quot;<br/>        my_logger.info(&#x27;------中间层表计测试用例开始执行------&#x27;)<br/>        login_token = login<br/>        MidHandler.logger.info(f&#x27;------第{test_data[&quot;code&quot;]}条测试用例：{test_data[&quot;module&quot;]} - {test_data[&quot;case_name&quot;]} 开始执行------&#x27;)<br/>        # my_logger.info(f&#x27;token is:{login_token}&#x27;) # 默认不打印token到日志中<br/>        MidHandler.logger.info(&#x27;登录成功！&#x27;)<br/>    <br/>        req_url = civil_host + test_data[&#x27;url&#x27;]<br/>        req_method = test_data[&#x27;method&#x27;]<br/>        req_headers = test_data[&#x27;headers&#x27;]<br/>        req_params = test_data[&#x27;url_param&#x27;]<br/>        req_data = test_data[&#x27;json&#x27;]<br/>    <br/>        if test_data[&#x27;url_param&#x27;]:<br/>            req_url = &#x27;&#x27;.join([req_url, test_data[&#x27;url_param&#x27;]])<br/>    <br/>        # 替换 token<br/>        if &quot;#TOKEN&quot; in req_headers:<br/>            req_headers = req_headers.replace(&quot;#TOKEN&quot;, login_token)<br/>    <br/>        req_data_json = json.loads(req_data)<br/>    <br/>        resp = requests.request(url=req_url,<br/>                                method=req_method,<br/>                                headers=json.loads(req_headers),<br/>                                params=req_params,<br/>                                json=req_data_json)<br/>    <br/>        resp_body = resp.json()<br/>        assert resp_body[&#x27;code&#x27;] == 200     # 断言接口是否返回200<br/>    <br/>        # resp_body_data_str = str(resp_body[&#x27;data&#x27;])<br/>        # print(&#x27;打印响应体数据&#x27;, resp_body_data_str)    # 打印响应体数据<br/>        expected = json.loads(test_data[&#x27;expected&#x27;])<br/>    <br/>        # 抽样获取中间层返回接口中的各类型部件数据<br/>        # demo_data_dict = {}<br/>    <br/>        try:<br/>            assert resp_body[&#x27;data&#x27;] != []<br/>            # 校验接口返回数据准确性<br/>            if expected[&#x27;mode&#x27;] == &#x27;realtime&#x27;:<br/>                # 定义请求体参数中各部件类型查询的属性数据字典<br/>                request_p_data_dict = req_data_json[&#x27;queries&#x27;][0]<br/>                # 获取metric的列表形式<br/>                metric_list = format_metric(request_p_data_dict[&#x27;metric&#x27;])<br/>                # 获取中间层返回接口中的部件数据<br/>                # print(&quot;resp_body[&#x27;data&#x27;]:&quot;, resp_body[&#x27;data&#x27;])<br/>                # print(&quot;resp_body[&#x27;data&#x27;]大小:&quot;, len(resp_body[&#x27;data&#x27;]))<br/>                demo_data_dict = resp_body[&#x27;data&#x27;][0]<br/>                # 部件数据类型<br/>                p_type = req_data_json[&#x27;table&#x27;]<br/>                for metric in metric_list:<br/>                    assert metric in demo_data_dict<br/>                # 断言接口数据中有aligntime<br/>                assert &#x27;aligntime&#x27; in demo_data_dict<br/>                # 断言接口数据类型<br/>                assert p_type + &#x27;_m_lastest&#x27; == demo_data_dict[&#x27;type&#x27;]<br/>                # 断言pid是否一致<br/>                assert req_data_json[&#x27;search&#x27;].split(&#x27;pid=&#x27;)[1] == str(demo_data_dict[&#x27;pid&#x27;])<br/>    <br/>            else:<br/>                my_logger.error(f&#x27;测试用例数据有误!请检查expected数据：{expected}&#x27;)<br/>    <br/>        except Exception as e:<br/>            if &#x27;mode&#x27; in expected.keys():<br/>                if &#x27;&#x27; == req_data_json[&#x27;table&#x27;]:<br/>                    my_logger.error(&#x27;测试用例数据有误!请检查测试用例的json列数据的&quot;table&quot;！&#x27;)<br/>                else:<br/>&gt;                   raise e<br/><br/>test_module\test_mid_measuredpoint.py:112: <br/>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _<br/><br/>test_data = {&#x27;case_name&#x27;: &#x27;小井（表记）实时&#x27;, &#x27;code&#x27;: 1, &#x27;expected&#x27;: &#x27;{\n    &quot;mode&quot;: &quot;realtime&quot;,\n    &quot;type&quot;: &quot;measuredpoint&quot;\n}&#x27;, &#x27;headers&#x27;: &#x27;{&quot;Content-Type&quot;: &quot;application/json&quot;, &quot;Authorization&quot;: &quot;#TOKEN&quot;}&#x27;, ...}<br/>login = &#x27;eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6ImNmZjZhNDRjLTIxYjItNDVlNy04NDhhLTRlZmYwZDE4YjRiMCJ9.8AK1hbgdqm1r5-jwMmfFKgBxCBnoyNgYHFfIPfihNFRcRNkdl95Taft3GJLk3zB2PKfdvnHpS2Lz-SZ0sd3Dqg&#x27;<br/><br/>    @pytest.mark.mid_measurepoint<br/>    @pytest.mark.parametrize(&quot;test_data&quot;, data)<br/>    def test_mid_measuredpoint(test_data, login):<br/>        &quot;&quot;&quot;<br/>        小井监测-接口<br/>        :param test_data: 测试用例数据<br/>        :param login: 夹具<br/>        :return:<br/>        &quot;&quot;&quot;<br/>        my_logger.info(&#x27;------中间层表计测试用例开始执行------&#x27;)<br/>        login_token = login<br/>        MidHandler.logger.info(f&#x27;------第{test_data[&quot;code&quot;]}条测试用例：{test_data[&quot;module&quot;]} - {test_data[&quot;case_name&quot;]} 开始执行------&#x27;)<br/>        # my_logger.info(f&#x27;token is:{login_token}&#x27;) # 默认不打印token到日志中<br/>        MidHandler.logger.info(&#x27;登录成功！&#x27;)<br/>    <br/>        req_url = civil_host + test_data[&#x27;url&#x27;]<br/>        req_method = test_data[&#x27;method&#x27;]<br/>        req_headers = test_data[&#x27;headers&#x27;]<br/>        req_params = test_data[&#x27;url_param&#x27;]<br/>        req_data = test_data[&#x27;json&#x27;]<br/>    <br/>        if test_data[&#x27;url_param&#x27;]:<br/>            req_url = &#x27;&#x27;.join([req_url, test_data[&#x27;url_param&#x27;]])<br/>    <br/>        # 替换 token<br/>        if &quot;#TOKEN&quot; in req_headers:<br/>            req_headers = req_headers.replace(&quot;#TOKEN&quot;, login_token)<br/>    <br/>        req_data_json = json.loads(req_data)<br/>    <br/>        resp = requests.request(url=req_url,<br/>                                method=req_method,<br/>                                headers=json.loads(req_headers),<br/>                                params=req_params,<br/>                                json=req_data_json)<br/>    <br/>        resp_body = resp.json()<br/>        assert resp_body[&#x27;code&#x27;] == 200     # 断言接口是否返回200<br/>    <br/>        # resp_body_data_str = str(resp_body[&#x27;data&#x27;])<br/>        # print(&#x27;打印响应体数据&#x27;, resp_body_data_str)    # 打印响应体数据<br/>        expected = json.loads(test_data[&#x27;expected&#x27;])<br/>    <br/>        # 抽样获取中间层返回接口中的各类型部件数据<br/>        # demo_data_dict = {}<br/>    <br/>        try:<br/>            assert resp_body[&#x27;data&#x27;] != []<br/>            # 校验接口返回数据准确性<br/>            if expected[&#x27;mode&#x27;] == &#x27;realtime&#x27;:<br/>                # 定义请求体参数中各部件类型查询的属性数据字典<br/>                request_p_data_dict = req_data_json[&#x27;queries&#x27;][0]<br/>                # 获取metric的列表形式<br/>                metric_list = format_metric(request_p_data_dict[&#x27;metric&#x27;])<br/>                # 获取中间层返回接口中的部件数据<br/>                # print(&quot;resp_body[&#x27;data&#x27;]:&quot;, resp_body[&#x27;data&#x27;])<br/>                # print(&quot;resp_body[&#x27;data&#x27;]大小:&quot;, len(resp_body[&#x27;data&#x27;]))<br/>                demo_data_dict = resp_body[&#x27;data&#x27;][0]<br/>                # 部件数据类型<br/>                p_type = req_data_json[&#x27;table&#x27;]<br/>                for metric in metric_list:<br/>                    assert metric in demo_data_dict<br/>                # 断言接口数据中有aligntime<br/>                assert &#x27;aligntime&#x27; in demo_data_dict<br/>                # 断言接口数据类型<br/>                assert p_type + &#x27;_m_lastest&#x27; == demo_data_dict[&#x27;type&#x27;]<br/>                # 断言pid是否一致<br/>&gt;               assert req_data_json[&#x27;search&#x27;].split(&#x27;pid=&#x27;)[1] == str(demo_data_dict[&#x27;pid&#x27;])<br/><span class="error">E               IndexError: list index out of range</span><br/><br/>test_module\test_mid_measuredpoint.py:102: IndexError<br/> ------------------------------Captured stderr call------------------------------ <br/>2021-07-30 12:57:16,621 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 12:57:16,621 Engipower [test_mid_measuredpoint.py] [INFO] [line:46] ------第1条测试用例：GIS - 小井（表记）实时 开始执行------
+2021-07-30 12:57:16,621 Engipower [test_mid_measuredpoint.py] [INFO] [line:48] 登录成功！
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     Engipower:test_mid_measuredpoint.py:44 ------中间层表计测试用例开始执行------
+INFO     Engipower:test_mid_measuredpoint.py:46 ------第1条测试用例：GIS - 小井（表记）实时 开始执行------
+INFO     Engipower:test_mid_measuredpoint.py:48 登录成功！<br/></div></td></tr></tbody></table></body></html>

@@ -1,0 +1,3 @@
+[32mINFO    [0m Engipower:test_mid_gis.py:48 ------第8条测试用例：GIS - 表计实时 开始执行------
+[32mINFO    [0m Engipower:test_mid_gis.py:50 登录成功！
+[32mINFO    [0m Engipower:test_mid_gis.py:186 ------第8条测试用例：GIS - 表计实时 执行结束------

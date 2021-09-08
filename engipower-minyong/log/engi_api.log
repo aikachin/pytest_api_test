@@ -1,0 +1,27 @@
+2021-06-16 16:37:38,941 engipower_midpro [run.py] [INFO] [line:17] ------------测试开始------------
+2021-06-16 16:37:44,130 engipower_midpro [test_mid_gis.py] [INFO] [line:35] ------中间层GIS测试用例执行开始------
+2021-06-16 16:37:44,130 engipower_midpro [test_mid_gis.py] [INFO] [line:37] 登录成功！
+2021-06-16 16:37:44,307 engipower_midpro [test_mid_gis.py] [INFO] [line:177] ------中间层GIS测试用例执行结束------
+2021-06-16 16:37:44,877 engipower_midpro [test_mid_gis.py] [INFO] [line:35] ------中间层GIS测试用例执行开始------
+2021-06-16 16:37:44,877 engipower_midpro [test_mid_gis.py] [INFO] [line:37] 登录成功！
+2021-06-16 16:37:45,093 engipower_midpro [test_mid_gis.py] [INFO] [line:177] ------中间层GIS测试用例执行结束------
+2021-06-16 16:37:45,637 engipower_midpro [test_mid_gis.py] [INFO] [line:35] ------中间层GIS测试用例执行开始------
+2021-06-16 16:37:45,637 engipower_midpro [test_mid_gis.py] [INFO] [line:37] 登录成功！
+2021-06-16 16:37:45,728 engipower_midpro [test_mid_gis.py] [INFO] [line:177] ------中间层GIS测试用例执行结束------
+2021-06-16 16:37:46,313 engipower_midpro [test_mid_gis.py] [INFO] [line:35] ------中间层GIS测试用例执行开始------
+2021-06-16 16:37:46,314 engipower_midpro [test_mid_gis.py] [INFO] [line:37] 登录成功！
+2021-06-16 16:37:46,424 engipower_midpro [test_mid_gis.py] [INFO] [line:177] ------中间层GIS测试用例执行结束------
+2021-06-16 16:37:47,018 engipower_midpro [test_mid_gis.py] [INFO] [line:35] ------中间层GIS测试用例执行开始------
+2021-06-16 16:37:47,018 engipower_midpro [test_mid_gis.py] [INFO] [line:37] 登录成功！
+2021-06-16 16:37:47,150 engipower_midpro [test_mid_gis.py] [INFO] [line:177] ------中间层GIS测试用例执行结束------
+2021-06-16 16:37:47,729 engipower_midpro [test_mid_gis.py] [INFO] [line:35] ------中间层GIS测试用例执行开始------
+2021-06-16 16:37:47,729 engipower_midpro [test_mid_gis.py] [INFO] [line:37] 登录成功！
+2021-06-16 16:37:47,979 engipower_midpro [test_mid_gis.py] [INFO] [line:177] ------中间层GIS测试用例执行结束------
+2021-06-16 16:37:48,550 engipower_midpro [test_mid_gis.py] [INFO] [line:35] ------中间层GIS测试用例执行开始------
+2021-06-16 16:37:48,550 engipower_midpro [test_mid_gis.py] [INFO] [line:37] 登录成功！
+2021-06-16 16:37:48,689 engipower_midpro [test_mid_gis.py] [INFO] [line:177] ------中间层GIS测试用例执行结束------
+2021-06-16 16:37:49,259 engipower_midpro [test_mid_gis.py] [INFO] [line:35] ------中间层GIS测试用例执行开始------
+2021-06-16 16:37:49,259 engipower_midpro [test_mid_gis.py] [INFO] [line:37] 登录成功！
+2021-06-16 16:37:49,378 engipower_midpro [test_mid_gis.py] [INFO] [line:177] ------中间层GIS测试用例执行结束------
+2021-06-16 16:37:49,381 engipower_midpro [run.py] [INFO] [line:29] ------------测试结束------------
+

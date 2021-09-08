@@ -1,0 +1,726 @@
+2021-06-18 15:00:12,451 engipower_midpro [run.py] [INFO] [line:17] ------------测试开始------------
+2021-06-18 15:00:13,806 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:00:13,819 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:00:14,026 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:00:14,686 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:00:14,688 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:00:14,882 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:00:15,636 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:00:15,637 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:00:15,735 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:00:16,412 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:00:16,413 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:00:16,579 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:00:17,168 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:00:17,169 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:00:17,307 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:00:17,940 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:00:17,941 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:00:18,050 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:00:18,639 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:00:18,641 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:00:18,762 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:00:19,348 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:00:19,349 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:00:19,551 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:00:19,576 engipower_midpro [run.py] [INFO] [line:29] ------------测试结束------------
+
+2021-06-18 15:01:38,388 engipower_midpro [run.py] [INFO] [line:17] ------------测试开始------------
+2021-06-18 15:01:39,583 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:01:39,583 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:01:39,756 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:01:40,346 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:01:40,347 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:01:40,684 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:01:41,315 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:01:41,315 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:01:41,425 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:01:42,062 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:01:42,063 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:01:42,157 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:01:42,664 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:01:42,664 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:01:42,801 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:01:43,447 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:01:43,447 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:01:43,622 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:01:44,222 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:01:44,223 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:01:44,335 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:01:44,934 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:01:44,934 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:01:45,190 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:01:45,201 engipower_midpro [run.py] [INFO] [line:26] ------------测试结束------------
+
+2021-06-18 15:08:44,890 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:08:44,890 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:08:45,045 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:08:45,643 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:08:45,643 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:08:45,845 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:08:46,411 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:08:46,411 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:08:46,507 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:08:47,112 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:08:47,112 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:08:47,212 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:08:47,806 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:08:47,806 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:08:47,936 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:08:48,523 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:08:48,523 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:08:48,631 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:08:49,138 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:08:49,139 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:08:49,248 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:08:49,738 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------中间层GIS测试用例执行开始------
+2021-06-18 15:08:49,738 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:08:49,911 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------中间层GIS测试用例执行结束------
+2021-06-18 15:08:50,445 engipower_midpro [test_mid_measuredpoint.py] [INFO] [line:19] ------中间层表计测试用例开始执行------
+2021-06-18 15:08:50,892 engipower_midpro [test_mid_measuredpoint.py] [INFO] [line:19] ------中间层表计测试用例开始执行------
+2021-06-18 15:08:51,271 engipower_midpro [test_mid_measuredpoint.py] [INFO] [line:19] ------中间层表计测试用例开始执行------
+2021-06-18 15:08:51,619 engipower_midpro [test_mid_measuredpoint.py] [INFO] [line:19] ------中间层表计测试用例开始执行------
+2021-06-18 15:08:51,968 engipower_midpro [test_mid_measuredpoint.py] [INFO] [line:19] ------中间层表计测试用例开始执行------
+2021-06-18 15:08:52,551 engipower_midpro [test_mid_measuredpoint.py] [INFO] [line:19] ------中间层表计测试用例开始执行------
+2021-06-18 15:08:53,139 engipower_midpro [test_mid_measuredpoint.py] [INFO] [line:19] ------中间层表计测试用例开始执行------
+2021-06-18 15:20:35,860 engipower_midpro [run.py] [INFO] [line:17] ------------测试开始------------
+2021-06-18 15:20:37,060 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 15:20:37,073 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:20:37,222 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 15:20:37,817 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 15:20:37,818 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:20:38,013 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 15:20:38,619 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 15:20:38,620 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:20:38,718 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 15:20:39,159 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 15:20:39,160 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:20:39,283 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 15:20:39,737 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 15:20:39,739 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:20:39,862 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 15:20:40,331 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 15:20:40,333 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:20:40,431 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 15:20:40,983 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 15:20:40,984 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:20:41,140 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 15:20:41,713 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 15:20:41,715 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:20:41,817 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 15:20:41,837 engipower_midpro [run.py] [INFO] [line:26] ------------测试结束------------
+
+2021-06-18 15:33:59,565 engipower_midpro [run.py] [INFO] [line:17] ------------测试开始------------
+2021-06-18 15:33:59,975 engipower_midpro [run.py] [INFO] [line:27] ------------测试结束------------
+
+2021-06-18 15:34:16,019 engipower_midpro [run.py] [INFO] [line:17] ------------测试开始------------
+2021-06-18 15:34:17,154 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 15:34:17,168 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:34:17,281 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 15:34:17,793 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 15:34:17,795 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:34:18,321 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 15:34:18,930 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 15:34:18,932 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:34:19,023 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 15:34:19,641 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 15:34:19,642 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:34:19,732 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 15:34:20,356 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 15:34:20,357 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:34:20,490 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 15:34:21,102 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 15:34:21,104 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:34:21,200 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 15:34:21,806 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 15:34:21,807 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:34:21,926 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 15:34:22,534 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 15:34:22,535 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:34:22,637 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 15:34:22,659 engipower_midpro [run.py] [INFO] [line:27] ------------测试结束------------
+
+2021-06-18 15:36:10,820 engipower_midpro [run.py] [INFO] [line:17] ------------测试开始------------
+2021-06-18 15:36:12,014 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 15:36:12,029 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:36:12,135 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 15:36:12,730 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 15:36:12,731 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:36:12,930 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 15:36:13,451 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 15:36:13,453 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:36:13,550 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 15:36:14,148 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 15:36:14,149 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:36:14,305 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 15:36:14,911 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 15:36:14,913 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:36:15,049 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 15:36:15,643 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 15:36:15,644 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:36:15,735 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 15:36:16,337 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 15:36:16,339 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:36:16,465 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 15:36:17,042 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 15:36:17,044 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:36:17,138 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 15:36:17,159 engipower_midpro [run.py] [INFO] [line:27] ------------测试结束------------
+
+2021-06-18 15:38:52,902 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 15:38:52,902 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:38:53,012 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 15:38:53,579 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 15:38:53,579 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:38:53,798 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 15:38:54,390 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 15:38:54,390 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:38:54,525 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 15:38:55,116 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 15:38:55,116 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:38:55,208 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 15:38:55,777 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 15:38:55,778 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:38:55,911 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 15:38:56,529 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 15:38:56,529 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:38:56,677 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 15:38:57,264 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 15:38:57,265 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:38:57,393 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 15:38:57,993 engipower_midpro [test_mid_gis.py] [INFO] [line:45] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 15:38:57,993 engipower_midpro [test_mid_gis.py] [INFO] [line:47] 登录成功！
+2021-06-18 15:38:58,091 engipower_midpro [test_mid_gis.py] [INFO] [line:183] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 15:48:58,530 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 15:48:58,530 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:48:58,771 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 15:48:59,588 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 15:48:59,588 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:48:59,830 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 15:49:00,482 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 15:49:00,482 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:49:00,616 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 15:49:01,261 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 15:49:01,261 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:49:01,466 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 15:49:02,089 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 15:49:02,090 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:49:02,286 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 15:49:02,893 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 15:49:02,893 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:49:02,988 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 15:49:03,557 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 15:49:03,557 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:49:03,673 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 15:49:04,247 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 15:49:04,247 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:49:04,349 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 15:58:09,860 engipower_midpro [run.py] [INFO] [line:16] ------------测试开始------------
+2021-06-18 15:58:11,122 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 15:58:11,135 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:58:11,281 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 15:58:11,847 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 15:58:11,848 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:58:12,040 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 15:58:12,638 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 15:58:12,640 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:58:12,731 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 15:58:13,226 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 15:58:13,227 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:58:13,316 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 15:58:13,843 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 15:58:13,844 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:58:13,973 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 15:58:14,540 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 15:58:14,542 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:58:14,659 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 15:58:15,157 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 15:58:15,158 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:58:15,276 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 15:58:15,878 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 15:58:15,879 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 15:58:15,974 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 15:58:15,991 engipower_midpro [run.py] [INFO] [line:28] ------------测试结束------------
+
+2021-06-18 16:32:25,622 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 16:32:25,622 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:32:25,901 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 16:32:26,460 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 16:32:26,460 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:32:26,673 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 16:32:27,292 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 16:32:27,292 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:32:27,379 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 16:32:27,975 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 16:32:27,975 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:32:28,086 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 16:32:28,656 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 16:32:28,656 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:32:28,788 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 16:32:29,411 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 16:32:29,411 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:32:29,519 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 16:32:30,110 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 16:32:30,110 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:32:30,221 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 16:32:30,829 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 16:32:30,829 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:32:31,009 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 16:50:50,855 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 16:50:50,856 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:50:51,180 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 16:50:51,734 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 16:50:51,734 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:50:52,002 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 16:50:52,584 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 16:50:52,585 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:50:52,692 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 16:50:53,271 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 16:50:53,271 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:50:53,385 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 16:50:53,942 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 16:50:53,942 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:50:54,070 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 16:50:54,597 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 16:50:54,598 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:50:54,694 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 16:50:55,134 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 16:50:55,134 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:50:55,245 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 16:50:55,661 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 16:50:55,661 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:50:55,772 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 16:51:28,227 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 16:51:28,228 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:51:28,382 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 16:51:28,954 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 16:51:28,954 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:51:29,139 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 16:51:29,662 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 16:51:29,662 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:51:29,984 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 16:51:30,585 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 16:51:30,585 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:51:30,679 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 16:51:31,268 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 16:51:31,268 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:51:31,397 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 16:51:32,001 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 16:51:32,001 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:51:32,100 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 16:51:32,676 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 16:51:32,676 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:51:32,791 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 16:51:33,387 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 16:51:33,388 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 16:51:33,502 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 17:01:07,826 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 17:01:07,826 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:01:07,979 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 17:01:08,614 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 17:01:08,614 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:01:08,814 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 17:01:09,387 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 17:01:09,388 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:01:09,483 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 17:01:10,039 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 17:01:10,039 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:01:10,137 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 17:01:10,585 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 17:01:10,585 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:01:10,702 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 17:01:11,301 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 17:01:11,301 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:01:11,412 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 17:01:11,985 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 17:01:11,985 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:01:12,117 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 17:01:12,645 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 17:01:12,645 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:01:12,777 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 17:03:16,617 engipower_midpro [run.py] [INFO] [line:15] ------------测试开始------------
+2021-06-18 17:03:17,768 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 17:03:17,773 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:03:17,970 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 17:03:18,604 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 17:03:18,606 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:03:18,809 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 17:03:19,400 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 17:03:19,401 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:03:19,509 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 17:03:20,075 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 17:03:20,077 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:03:20,171 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 17:03:20,805 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 17:03:20,806 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:03:20,956 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 17:03:21,549 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 17:03:21,550 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:03:21,674 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 17:03:22,232 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 17:03:22,234 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:03:22,370 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 17:03:22,984 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 17:03:22,986 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:03:23,113 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 17:03:23,129 engipower_midpro [run.py] [INFO] [line:27] ------------测试结束------------
+
+2021-06-18 17:05:17,316 engipower_midpro [run.py] [INFO] [line:15] ------------测试开始------------
+2021-06-18 17:05:18,608 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 17:05:18,612 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:05:18,772 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 17:05:19,370 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 17:05:19,371 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:05:20,576 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 17:05:21,163 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 17:05:21,164 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:05:21,272 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 17:05:21,889 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 17:05:21,890 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:05:21,990 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 17:05:22,603 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 17:05:22,604 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:05:22,734 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 17:05:23,305 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 17:05:23,307 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:05:23,410 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 17:05:24,027 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 17:05:24,029 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:05:24,148 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 17:05:24,680 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 17:05:24,681 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:05:24,796 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 17:05:24,811 engipower_midpro [run.py] [INFO] [line:27] ------------测试结束------------
+
+2021-06-18 17:08:05,735 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 17:08:05,735 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:05,837 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 17:08:06,340 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 17:08:06,340 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:06,496 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 17:08:07,062 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 17:08:07,063 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:07,148 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 17:08:07,725 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 17:08:07,725 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:07,813 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 17:08:08,407 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 17:08:08,407 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:08,533 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 17:08:09,111 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 17:08:09,111 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:09,198 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 17:08:09,804 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 17:08:09,804 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:09,922 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 17:08:10,535 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 17:08:10,535 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:10,637 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 17:08:32,740 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 17:08:32,740 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:32,853 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 17:08:33,395 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 17:08:33,395 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:33,589 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 17:08:34,181 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 17:08:34,181 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:34,269 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 17:08:34,858 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 17:08:34,858 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:34,943 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 17:08:35,530 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 17:08:35,530 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:35,658 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 17:08:36,236 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 17:08:36,236 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:36,347 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 17:08:36,890 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 17:08:36,891 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:37,014 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 17:08:37,607 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 17:08:37,607 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:08:37,700 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 17:11:12,385 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 17:11:12,386 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:11:12,505 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 17:11:13,089 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 17:11:13,089 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:11:13,286 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 17:11:13,799 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 17:11:13,800 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:11:13,887 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 17:11:14,424 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 17:11:14,424 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:11:14,510 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 17:11:15,396 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 17:11:15,397 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:11:15,520 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 17:11:16,120 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 17:11:16,120 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:11:16,210 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 17:11:16,672 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 17:11:16,672 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:11:16,783 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 17:11:17,261 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 17:11:17,261 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:11:17,354 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-18 17:14:59,878 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-18 17:14:59,879 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:14:59,983 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-18 17:15:00,531 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-18 17:15:00,531 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:15:00,686 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-18 17:15:01,262 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-18 17:15:01,262 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:15:01,348 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-18 17:15:01,929 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-18 17:15:01,930 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:15:02,042 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-18 17:15:02,611 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-18 17:15:02,611 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:15:02,731 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-18 17:15:03,140 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-18 17:15:03,141 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:15:03,231 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-18 17:15:03,790 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-18 17:15:03,790 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:15:03,901 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-18 17:15:04,439 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-18 17:15:04,440 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-18 17:15:04,533 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-21 09:20:31,592 engipower_midpro [run.py] [INFO] [line:15] ------------测试开始------------
+2021-06-21 09:20:31,592 engipower_midpro [run.py] [INFO] [line:27] ------------测试结束------------
+
+2021-06-21 09:20:44,557 engipower_midpro [run.py] [INFO] [line:15] ------------测试开始------------
+2021-06-21 09:20:44,557 engipower_midpro [run.py] [INFO] [line:27] ------------测试结束------------
+
+2021-06-21 09:20:46,134 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-21 09:20:46,212 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:20:47,382 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-21 09:20:48,009 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-21 09:20:48,011 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:21:02,169 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-21 09:21:02,766 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-21 09:21:02,768 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:21:02,876 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-21 09:21:03,460 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-21 09:21:03,461 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:21:03,892 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-21 09:21:04,499 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-21 09:21:04,501 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:21:04,641 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-21 09:21:05,211 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-21 09:21:05,212 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:21:05,316 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-21 09:21:05,924 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-21 09:21:05,925 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:21:06,065 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-21 09:21:06,629 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-21 09:21:06,631 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:21:06,769 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-21 09:23:24,694 engipower_midpro [run.py] [INFO] [line:15] ------------测试开始------------
+2021-06-21 09:23:25,921 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-21 09:23:25,935 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:23:26,220 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-21 09:23:26,989 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-21 09:23:26,991 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:23:27,294 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-21 09:23:28,081 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-21 09:23:28,082 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:23:28,285 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-21 09:23:28,807 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-21 09:23:28,809 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:23:28,942 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-21 09:23:29,527 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-21 09:23:29,528 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:23:29,664 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-21 09:23:30,243 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-21 09:23:30,244 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:23:30,349 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-21 09:23:30,948 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-21 09:23:30,950 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:23:31,134 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-21 09:23:31,792 engipower_midpro [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-21 09:23:31,793 engipower_midpro [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 09:23:31,944 engipower_midpro [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-21 09:23:31,949 engipower_midpro [run.py] [INFO] [line:30] ------------测试结束------------
+
+2021-06-21 10:59:34,836 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-21 10:59:34,837 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:50] 登录成功！
+2021-06-21 10:59:35,215 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-21 10:59:35,879 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-21 10:59:35,879 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:50] 登录成功！
+2021-06-21 10:59:36,122 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-21 10:59:36,782 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-21 10:59:36,783 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:50] 登录成功！
+2021-06-21 10:59:36,875 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-21 10:59:37,520 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-21 10:59:37,520 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:50] 登录成功！
+2021-06-21 10:59:37,632 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-21 10:59:38,248 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-21 10:59:38,249 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:50] 登录成功！
+2021-06-21 10:59:38,377 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-21 10:59:38,990 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-21 10:59:38,991 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:50] 登录成功！
+2021-06-21 10:59:39,114 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-21 10:59:39,681 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-21 10:59:39,681 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:50] 登录成功！
+2021-06-21 10:59:39,796 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-21 10:59:40,381 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-21 10:59:40,382 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:50] 登录成功！
+2021-06-21 10:59:40,519 engipower_midpro [test_mid_gis.py] func-test_mid_gis [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-21 13:33:34,120 Engipower [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-21 13:33:34,121 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:33:34,355 Engipower [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-21 13:33:34,997 Engipower [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-21 13:33:34,998 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:33:35,258 Engipower [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-21 13:33:35,918 Engipower [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-21 13:33:35,919 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:33:36,020 Engipower [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-21 13:33:36,613 Engipower [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-21 13:33:36,613 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:33:36,710 Engipower [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-21 13:33:37,297 Engipower [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-21 13:33:37,297 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:33:37,429 Engipower [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-21 13:33:38,178 Engipower [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-21 13:33:38,178 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:33:38,291 Engipower [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-21 13:33:38,945 Engipower [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-21 13:33:38,946 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:33:39,054 Engipower [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-21 13:33:39,658 Engipower [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-21 13:33:39,659 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:33:39,780 Engipower [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-21 13:44:44,628 Engipower [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-21 13:44:44,628 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:44:44,755 Engipower [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-21 13:44:45,352 Engipower [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-21 13:44:45,352 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:44:45,565 Engipower [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-21 13:44:46,150 Engipower [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-21 13:44:46,151 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:44:46,261 Engipower [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-21 13:44:46,892 Engipower [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-21 13:44:46,893 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:44:46,999 Engipower [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-21 13:44:47,566 Engipower [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-21 13:44:47,566 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:44:47,711 Engipower [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-21 13:44:48,327 Engipower [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-21 13:44:48,327 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:44:48,439 Engipower [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-21 13:44:49,037 Engipower [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-21 13:44:49,037 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:44:49,155 Engipower [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-21 13:44:49,759 Engipower [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-21 13:44:49,759 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:44:49,909 Engipower [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-06-21 13:58:13,839 Engipower [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-06-21 13:58:13,839 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:58:13,966 Engipower [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-06-21 13:58:14,536 Engipower [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-06-21 13:58:14,536 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:58:14,801 Engipower [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-06-21 13:58:15,369 Engipower [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-06-21 13:58:15,369 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:58:15,459 Engipower [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-06-21 13:58:16,050 Engipower [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-06-21 13:58:16,050 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:58:16,140 Engipower [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-06-21 13:58:16,600 Engipower [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-06-21 13:58:16,600 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:58:16,721 Engipower [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-06-21 13:58:17,123 Engipower [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-06-21 13:58:17,123 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:58:17,210 Engipower [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-06-21 13:58:17,636 Engipower [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-06-21 13:58:17,636 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:58:17,753 Engipower [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-06-21 13:58:18,202 Engipower [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-06-21 13:58:18,202 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-06-21 13:58:18,295 Engipower [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-07-30 11:03:14,705 Engipower [run.py] [INFO] [line:15] ------------测试开始------------
+2021-07-30 11:03:16,188 Engipower [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
+2021-07-30 11:03:16,188 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-07-30 11:03:16,416 Engipower [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
+2021-07-30 11:03:17,081 Engipower [test_mid_gis.py] [INFO] [line:48] ------第2条测试用例：GIS - 热力站历史 开始执行------
+2021-07-30 11:03:17,082 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-07-30 11:03:17,306 Engipower [test_mid_gis.py] [INFO] [line:186] ------第2条测试用例：GIS - 热力站历史 执行结束------
+2021-07-30 11:03:17,973 Engipower [test_mid_gis.py] [INFO] [line:48] ------第3条测试用例：GIS - 热力站实时 开始执行------
+2021-07-30 11:03:17,973 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-07-30 11:03:18,072 Engipower [test_mid_gis.py] [INFO] [line:186] ------第3条测试用例：GIS - 热力站实时 执行结束------
+2021-07-30 11:03:18,725 Engipower [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
+2021-07-30 11:03:18,725 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-07-30 11:03:18,830 Engipower [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------
+2021-07-30 11:03:19,470 Engipower [test_mid_gis.py] [INFO] [line:48] ------第5条测试用例：GIS - 热源历史 开始执行------
+2021-07-30 11:03:19,470 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-07-30 11:03:19,606 Engipower [test_mid_gis.py] [INFO] [line:186] ------第5条测试用例：GIS - 热源历史 执行结束------
+2021-07-30 11:03:20,274 Engipower [test_mid_gis.py] [INFO] [line:48] ------第6条测试用例：GIS - 热源实时 开始执行------
+2021-07-30 11:03:20,274 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-07-30 11:03:20,378 Engipower [test_mid_gis.py] [INFO] [line:186] ------第6条测试用例：GIS - 热源实时 执行结束------
+2021-07-30 11:03:21,039 Engipower [test_mid_gis.py] [INFO] [line:48] ------第7条测试用例：GIS - 表计历史 开始执行------
+2021-07-30 11:03:21,039 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-07-30 11:03:21,166 Engipower [test_mid_gis.py] [INFO] [line:186] ------第7条测试用例：GIS - 表计历史 执行结束------
+2021-07-30 11:03:21,828 Engipower [test_mid_gis.py] [INFO] [line:48] ------第8条测试用例：GIS - 表计实时 开始执行------
+2021-07-30 11:03:21,828 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
+2021-07-30 11:03:21,935 Engipower [test_mid_gis.py] [INFO] [line:186] ------第8条测试用例：GIS - 表计实时 执行结束------
+2021-07-30 11:03:21,979 Engipower [run.py] [INFO] [line:26] ------------测试结束------------
+
+2021-07-30 11:26:07,534 Engipower [run.py] [INFO] [line:15] ------------测试开始------------
+2021-07-30 11:26:08,135 Engipower [run.py] [INFO] [line:26] ------------测试结束------------
+
+2021-07-30 11:27:58,946 Engipower [run.py] [INFO] [line:15] ------------测试开始------------
+2021-07-30 11:28:00,423 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 11:28:01,144 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 11:28:01,821 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 11:28:02,522 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 11:28:03,185 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 11:28:03,830 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 11:28:04,471 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 11:28:04,515 Engipower [run.py] [INFO] [line:26] ------------测试结束------------
+
+2021-07-30 11:30:42,771 Engipower [run.py] [INFO] [line:15] ------------测试开始------------
+2021-07-30 11:30:44,010 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 11:30:44,010 Engipower [test_mid_measuredpoint.py] [INFO] [line:46] ------第1条测试用例：GIS - 小井（表记）实时 开始执行------
+2021-07-30 11:30:44,010 Engipower [test_mid_measuredpoint.py] [INFO] [line:48] 登录成功！
+2021-07-30 11:30:44,611 Engipower [test_mid_measuredpoint.py] [ERROR] [line:105] 测试用例数据有误!请检查expected数据：{'mode': 'real', 'type': 'measuredpoint'}
+2021-07-30 11:30:44,612 Engipower [test_mid_measuredpoint.py] [INFO] [line:116] ------第1条测试用例：GIS - 小井（表记）实时 执行结束------
+2021-07-30 11:30:44,630 Engipower [run.py] [INFO] [line:26] ------------测试结束------------
+
+2021-07-30 12:53:41,849 Engipower [run.py] [INFO] [line:15] ------------测试开始------------
+2021-07-30 12:53:43,199 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 12:53:43,199 Engipower [test_mid_measuredpoint.py] [INFO] [line:46] ------第1条测试用例：GIS - 小井（表记）实时 开始执行------
+2021-07-30 12:53:43,199 Engipower [test_mid_measuredpoint.py] [INFO] [line:48] 登录成功！
+2021-07-30 12:53:43,431 Engipower [test_mid_measuredpoint.py] [WARNING] [line:112] MeasuredPoint 没有数据！
+2021-07-30 12:53:43,431 Engipower [test_mid_measuredpoint.py] [INFO] [line:116] ------第1条测试用例：GIS - 小井（表记）实时 执行结束------
+2021-07-30 12:53:43,441 Engipower [run.py] [INFO] [line:26] ------------测试结束------------
+
+2021-07-30 12:54:00,515 Engipower [run.py] [INFO] [line:15] ------------测试开始------------
+2021-07-30 12:54:01,810 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 12:54:01,810 Engipower [test_mid_measuredpoint.py] [INFO] [line:46] ------第1条测试用例：GIS - 小井（表记）实时 开始执行------
+2021-07-30 12:54:01,810 Engipower [test_mid_measuredpoint.py] [INFO] [line:48] 登录成功！
+2021-07-30 12:54:01,915 Engipower [test_mid_measuredpoint.py] [WARNING] [line:112] MeasuredPoint 没有数据！
+2021-07-30 12:54:01,915 Engipower [test_mid_measuredpoint.py] [INFO] [line:116] ------第1条测试用例：GIS - 小井（表记）实时 执行结束------
+2021-07-30 12:54:01,933 Engipower [run.py] [INFO] [line:26] ------------测试结束------------
+
+2021-07-30 12:55:58,963 Engipower [run.py] [INFO] [line:15] ------------测试开始------------
+2021-07-30 12:56:00,254 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 12:56:00,255 Engipower [test_mid_measuredpoint.py] [INFO] [line:46] ------第1条测试用例：GIS - 小井（表记）实时 开始执行------
+2021-07-30 12:56:00,255 Engipower [test_mid_measuredpoint.py] [INFO] [line:48] 登录成功！
+2021-07-30 12:56:00,451 Engipower [run.py] [INFO] [line:26] ------------测试结束------------
+
+2021-07-30 12:57:15,365 Engipower [run.py] [INFO] [line:15] ------------测试开始------------
+2021-07-30 12:57:16,621 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 12:57:16,621 Engipower [test_mid_measuredpoint.py] [INFO] [line:46] ------第1条测试用例：GIS - 小井（表记）实时 开始执行------
+2021-07-30 12:57:16,621 Engipower [test_mid_measuredpoint.py] [INFO] [line:48] 登录成功！
+2021-07-30 12:57:16,807 Engipower [run.py] [INFO] [line:26] ------------测试结束------------
+
+2021-07-30 13:04:07,806 Engipower [run.py] [INFO] [line:15] ------------测试开始------------
+2021-07-30 13:04:09,087 Engipower [test_mid_measuredpoint.py] [INFO] [line:44] ------中间层表计测试用例开始执行------
+2021-07-30 13:04:09,088 Engipower [test_mid_measuredpoint.py] [INFO] [line:46] ------第1条测试用例：GIS - 小井（表记）实时 开始执行------
+2021-07-30 13:04:09,088 Engipower [test_mid_measuredpoint.py] [INFO] [line:48] 登录成功！
+2021-07-30 13:04:09,186 Engipower [test_mid_measuredpoint.py] [INFO] [line:121] ------第1条测试用例：GIS - 小井（表记）实时 执行结束------
+2021-07-30 13:04:09,198 Engipower [run.py] [INFO] [line:26] ------------测试结束------------
+

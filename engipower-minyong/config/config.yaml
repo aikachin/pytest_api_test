@@ -1,0 +1,28 @@
+#login_host: "http://172.16.0.108:8000/"
+#civil_host: "http://172.16.0.108:8222/"
+#project_name: "taishan"
+
+#民用演示环境，内网：172.16.1.90
+#login_host: "http://172.16.1.90:8000/"
+#civil_host: "http://172.16.1.90:8222/"
+login_host: "http://172.16.0.7:8000/"
+civil_host: "http://172.16.0.7:8222/"
+#项目名称
+project_name: "minyong"
+#用例名称
+case_file: "test_cases.xlsx"
+#测试报告文件名称
+report_file: "engipower_api_test"
+
+#日志标识
+log_name: Engipower
+#日志文件名
+log_file: engipower_api_test.log
+#日志输出等级
+logger_level: DEBUG
+#日志输出等级（控制台）
+stream_handler_level: DEBUG
+#日志输出等级（日志文件）
+file_handler_level: INFO
+#日志格式
+log_format: "%(asctime)s [%(filename)s] %(name)s [%(levelname)s] [line:%(lineno)d] %(message)s"
