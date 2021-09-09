@@ -1,3 +1,0 @@
-2021-06-21 13:44:46,892 Engipower [test_mid_gis.py] [INFO] [line:48] ------第4条测试用例：GIS - 热力站计算数据 开始执行------
-2021-06-21 13:44:46,893 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
-2021-06-21 13:44:46,999 Engipower [test_mid_gis.py] [INFO] [line:186] ------第4条测试用例：GIS - 热力站计算数据 执行结束------

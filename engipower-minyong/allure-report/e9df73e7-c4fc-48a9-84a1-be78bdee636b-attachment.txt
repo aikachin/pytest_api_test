@@ -1,3 +1,0 @@
-[32mINFO    [0m Engipower:test_mid_gis.py:48 ------第1条测试用例：GIS - GIS初始化 开始执行------
-[32mINFO    [0m Engipower:test_mid_gis.py:50 登录成功！
-[32mINFO    [0m Engipower:test_mid_gis.py:186 ------第1条测试用例：GIS - GIS初始化 执行结束------

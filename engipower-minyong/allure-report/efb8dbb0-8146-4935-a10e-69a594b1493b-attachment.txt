@@ -1,3 +1,0 @@
-2021-06-21 13:58:13,839 Engipower [test_mid_gis.py] [INFO] [line:48] ------第1条测试用例：GIS - GIS初始化 开始执行------
-2021-06-21 13:58:13,839 Engipower [test_mid_gis.py] [INFO] [line:50] 登录成功！
-2021-06-21 13:58:13,966 Engipower [test_mid_gis.py] [INFO] [line:186] ------第1条测试用例：GIS - GIS初始化 执行结束------
